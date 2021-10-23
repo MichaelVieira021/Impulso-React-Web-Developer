@@ -1,4 +1,4 @@
-<h3 align="center">Repositório dedicado ao Bootcamp React Web Developer</h3>
+<h2 align="center">Repositório dedicado ao Bootcamp React Web Developer</h2>
 
 <p align="center">Aqui irei colocar alguns comandos aprendidos durante cada etapa do curso.
 
