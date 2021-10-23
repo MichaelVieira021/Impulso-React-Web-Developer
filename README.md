@@ -1,10 +1,11 @@
-<center><h3>Repositório dedicado ao Bootcamp React Web Developer</h3>
+<h3 align="center">Repositório dedicado ao Bootcamp React Web Developer</h3>
 
-<center>Aqui irei colocar alguns comandos aprendidos durante cada etapa do curso.
+<p align="center">Aqui irei colocar alguns comandos aprendidos durante cada etapa do curso.
 
-<center>Caso tenha algum projeto, o mesmo estará em um novo repositório e o link no README deste repositório dentro da pasta especifica da etapa exercida. 
+<p align="center">Caso tenha algum projeto, o mesmo estará em um novo repositório e o link no README da pasta específica da etapa exercida. 
 
-<center><h3>Impulso React Web Developer</h3>
+<h3 align="center">Impulso React Web Developer</h3>
+
 
 - Introdução ao Git/GitHub. ✔️
 
