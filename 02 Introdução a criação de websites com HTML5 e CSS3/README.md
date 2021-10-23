@@ -1,4 +1,4 @@
-<h2 align="center">Introdução a criação de websites com HTML5 e CSS3</h2>
+<h1 align="center">Introdução a criação de websites com HTML5 e CSS3</h1>
 
 
 
@@ -13,10 +13,5 @@
 
 
 <h1 align="center"><a href="https://github.com/MichaelVieira021/PRIMEIRO-PROJETO-EM-HTML-CSS.git" target="_blank">PRIMEIRO PROJETO HTML / CSS</a></h1>
-
-
-
-
-
 
 
