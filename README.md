@@ -7,10 +7,6 @@
 
 
 - Introdução ao Git/GitHub. ✔️
-
 - Introdução a criação de websites com HTML5 e CSS3. ✔️
-
-- Posicionando elementos com Flexbox em CSS3. 🚧
-
-  
-
+- Posicionando elementos com Flexbox em CSS3. ✔️
+- Conceitos de responsividade e experiência do usuário 🚧
